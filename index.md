@@ -3,7 +3,7 @@ layout: home
 title: Foundation for Interwallet Operability
 lang: en
 intro:
-  heading: Making Crypto Products <span>Easier</span> So&nbsp;<span>Anyone</span>&nbsp;Can Use Them.
+  heading: Making Crypto Products <span>Easier</span> So&nbsp;<span>Anyone</span>&nbsp;Can Use Them
   image: /assets/img/fio-protocol.svg
   button_1:
     text: Get Started
